@@ -1,0 +1,174 @@
+/** 
+External CSS styles 
+**/
+
+body {
+  margin: 0 auto;
+  padding: 0;
+  background-color: lightgray;
+  border-color: #dddddd;
+}
+
+header {
+  margin:0 auto;
+  background-color: #fff;
+  width: 100%;
+  height: 100px;
+  float: left;
+  margin-bottom: 20px;
+  border-bottom-color: darkgrey;
+  border-bottom-width: thin;
+  border-bottom-style: solid;
+}
+
+.main{
+  width: 960px;
+  margin: 0 auto;
+}
+
+h1{
+  margin:0 auto;
+  color: white;
+  margin-left: 160px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.name{
+  background-color: #4aaaa5;
+  color: white;
+  width: 150px;
+  padding: 23px;
+  text-align: center;
+  float: left;
+}
+
+.links{
+  float: right;
+  background: white;
+  width: 400px;
+  height: 100px;
+  padding-top: 10px 0;
+  padding-left: 15%;
+}
+
+h2{
+  float: left;
+  margin-left: 10px;
+  margin-top: 35px; 
+  font-size: 18px;
+  background-color: white;
+  color: rgb(119, 119, 119);
+  border-color: lightblue;
+  border-right-width: thick;
+}
+
+h3{
+  color:#4aaaa5;
+  font-size: 22px;
+  padding-left: 15px;
+}
+
+.di1{
+  width: 250px;
+  float: left;
+}
+
+.divider{
+  height: 2px;
+  background: lightgrey;
+  margin: 15px;
+}
+
+.container{
+  float: left;
+  width: 650px;
+  height: 450px;
+  background: white;
+  margin-bottom: 20px;
+}
+
+.cont_conn{
+  float: left;
+  width: 270px;
+  background: white;
+  margin-left: 20px;
+  height: 200px;
+}
+
+.social{
+  height: 40px;
+  width: 40px;
+  float: left;
+  margin: 10px;
+}
+
+#bio-image{
+  margin: 0 auto;
+  padding-left: 15px;
+  float:left;
+  width: 33%;
+}
+
+#profile {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  float: left;
+  width: 60%;
+  padding-left: 15px;
+  color: #777;
+}
+
+footer {
+  text-align: center;
+  clear: both;
+  margin-top: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 100%;
+  border-top-color: #4aaaa5;
+  border-top-width: thick;
+  border-style: solid;
+  background-color: #666;
+}
+/** 
+External CSS styles 
+nav{
+  width: 400px;
+}
+
+h2{
+  background-color: #4aaaa5;
+  color: white;
+  width: 150px;
+  margin-left: 40px;
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+a {
+  color: #d21034;
+}
+
+#main-bio,
+#contact-info,
+#bio-image {
+  float: left;
+}
+
+#main-bio {
+  width: 70%;
+}
+
+#contact-info {
+  width: 30%;
+}
+
+#bio-image {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}
+**/
