@@ -131,6 +131,9 @@ footer {
   border-top-width: thick;
   border-style: solid;
   background-color: #666;
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }
 
 .labels{
