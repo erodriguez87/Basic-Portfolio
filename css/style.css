@@ -84,9 +84,11 @@ h3{
 .container{
   float: left;
   width: 650px;
-  height: 450px;
+  padding-bottom: 40px;
   background: white;
   margin-bottom: 20px;
+  flex-flow: wrap;
+  overflow: hidden;
 }
 
 .cont_conn{
@@ -110,6 +112,7 @@ h3{
   padding-left: 15px;
   float:left;
   width: 33%;
+  flex-flow: wrap;
 }
 
 #profile {
@@ -118,6 +121,7 @@ h3{
   width: 60%;
   padding-left: 15px;
   color: #777;
+  flex-flow: wrap;
 }
 
 footer {
@@ -162,3 +166,13 @@ footer {
   color: white;
 }
 
+.port{
+  margin: 40px;
+  height:155px;
+  width: 175px;
+  float: left;
+}
+
+.portfolio{
+  margin-left: 30px;
+}
