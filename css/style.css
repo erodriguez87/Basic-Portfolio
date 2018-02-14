@@ -21,7 +21,7 @@ header {
   border-bottom-style: solid;
 }
 
-.main{
+.main {
   width: 960px;
   margin: 0 auto;
 }
@@ -29,9 +29,10 @@ header {
 h1{
   margin:0 auto;
   color: white;
-  margin-left: 160px;
+  height: 100%;
+  margin-left: 19%;
   text-align: center;
-  font-size: 24px;
+  font-size: 27px;
 }
 
 .name{
@@ -46,7 +47,7 @@ h1{
 .links{
   float: right;
   background: white;
-  width: 400px;
+  width: 575px;
   height: 100px;
   padding-top: 10px 0;
   padding-left: 15%;
@@ -66,7 +67,7 @@ h2{
 h3{
   color:#4aaaa5;
   font-size: 22px;
-  padding-left: 15px;
+  padding: 15px 15px 0px 15px;
 }
 
 .di1{
@@ -89,8 +90,9 @@ h3{
 }
 
 .cont_conn{
+  padding: 15px 35px 35px 35px;
   float: left;
-  width: 270px;
+  width: 200px;
   background: white;
   margin-left: 20px;
   height: 200px;
@@ -130,45 +132,30 @@ footer {
   border-style: solid;
   background-color: #666;
 }
-/** 
-External CSS styles 
-nav{
-  width: 400px;
+
+.labels{
+  padding-left:15px;
+  width: 80%;
 }
 
-h2{
-  background-color: #4aaaa5;
+.wrapinput{
+  padding-left:15px;
+}
+
+.inp1{
+  width: 80%;
+  padding-left:15px;
+  text-align: left;
+}
+
+.inp2{
+  width: 80%;
+  height: 120px;
+  padding-left:15px;
+}
+
+.submit{
+  background: #4aaaa5;
   color: white;
-  width: 150px;
-  margin-left: 40px;
-  text-align: center;
 }
 
-.container {
-  margin: 0 auto;
-}
-
-a {
-  color: #d21034;
-}
-
-#main-bio,
-#contact-info,
-#bio-image {
-  float: left;
-}
-
-#main-bio {
-  width: 70%;
-}
-
-#contact-info {
-  width: 30%;
-}
-
-#bio-image {
-  width: 200px;
-  height: 200px;
-  margin-right: 20px;
-}
-**/
